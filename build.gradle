@@ -8,7 +8,7 @@ buildscript {
         maven { url'https://maven.aliyun.com/repository/google/' }
         maven { url'https://maven.aliyun.com/repository/jcenter/' }
         maven { url'https://maven.aliyun.com/repository/central/' }
-        google()
+//        google()
         jcenter()
         jcenter { url "http://jcenter.bintray.com/"}
         mavenCentral()
@@ -31,7 +31,7 @@ allprojects {
         maven { url'https://maven.aliyun.com/repository/jcenter/' }
         maven { url'https://maven.aliyun.com/repository/central/' }
         maven {url 'https://dl.bintray.com/jetbrains/anko'}
-        google()
+//        google()
         jcenter()
         jcenter { url "http://jcenter.bintray.com/"}
         mavenCentral()
